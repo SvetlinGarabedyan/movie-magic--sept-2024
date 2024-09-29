@@ -10,4 +10,5 @@ Ako в j.son файла променим script-a ( for example "dev": 'node src
 4. Add resources 
 5. Setup static route
 6. Add routes and controllers
+7. Extract partial template
 
