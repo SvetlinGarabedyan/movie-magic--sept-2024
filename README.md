@@ -14,4 +14,5 @@ Ako в j.son файла променим script-a ( for example "dev": 'node src
 8. Extract partial template
 9. Add service and data layers
 10. Add Create page
+11. Add details page
 
