@@ -6,4 +6,5 @@ Ako в j.son файла променим script-a ( for example "dev": 'node src
 ## Develop Steps
 1. Initial Project Architecture
 2. Express setup
-3.Setup handlebars
+3. Setup handlebars
+4. Add resources 
