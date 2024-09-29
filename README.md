@@ -8,3 +8,5 @@ Ako в j.son файла променим script-a ( for example "dev": 'node src
 2. Express setup
 3. Setup handlebars
 4. Add resources 
+5. Setup static route
+
