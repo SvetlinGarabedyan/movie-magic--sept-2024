@@ -9,6 +9,9 @@ Ako в j.son файла променим script-a ( for example "dev": 'node src
 3. Setup handlebars
 4. Add resources 
 5. Setup static route
-6. Add routes and controllers
-7. Extract partial template
+6. Render home page
+7. Add routes and controllers
+8. Extract partial template
+9. Add service and data layers
+10. Add Create page
 
