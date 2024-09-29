@@ -9,4 +9,5 @@ Ako в j.son файла променим script-a ( for example "dev": 'node src
 3. Setup handlebars
 4. Add resources 
 5. Setup static route
+6. Add routes and controllers
 
