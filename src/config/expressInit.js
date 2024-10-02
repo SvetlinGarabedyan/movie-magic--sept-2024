@@ -1,4 +1,4 @@
-import express from 'express'
+import express from 'express';
 
 export default function expressInit(app){
     app.engine('hbs', handlebars.engine({

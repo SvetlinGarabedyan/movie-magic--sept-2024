@@ -3,7 +3,7 @@ JS Back-End Course Workshop
 
 Ako в j.son файла променим script-a ( for example "dev": 'node src/index.js') - стартирането става с npm run dev
 
-## Develop Steps
+## Develop Steps - Workshop part 1
 1. Initial Project Architecture
 2. Express setup
 3. Setup handlebars
@@ -14,5 +14,12 @@ Ako в j.son файла променим script-a ( for example "dev": 'node src
 8. Extract partial template
 9. Add service and data layers
 10. Add Create page
-11. Add details page
+11. Add Details page
+12. Add Search page
+
+## Develop Steps - Workshop part 2
+1. Extract init files
+2. Setup mongoose
+3. Add models
+
 
